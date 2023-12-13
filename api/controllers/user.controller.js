@@ -1,4 +1,4 @@
-export const test = (reg, res) => {
+export const test = (req, res) => {
   res.json({
     message: "API is working!",
   });
